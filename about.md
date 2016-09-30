@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I love solving problems. The more elusive, black box type the better. If I don't do this I tend to get bored, hence the fact that I am pursuing data science related work.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My Background in a few words:
+
+1. PhD in Applied Physics
+2. Worked in Optical scanners at Intel Corp
+3. Completed intensive Data Science bootcamp at Metis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[maroof.hk@gmail.com](mailto:email@domain.com)
