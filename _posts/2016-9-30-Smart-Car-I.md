@@ -3,7 +3,7 @@ layout: post
 title: Smart Car with Reinforcement Learning: Part 1!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are going to start with Q-Learning basics and then advance to more fancy stuff.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
